@@ -20,7 +20,7 @@ module.exports = function(cidrs) {
           endAddress: overlapCidr.end(),
           cidr1: currentCidr,
           cidr2: cidr,
-          overlapCidr: overlapCidr
+          overlapCidr: overlapCidr.toString()
         })
       }
     })
