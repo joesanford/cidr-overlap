@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# JetBrains IDEs
+.idea/
+
+# macOS
+.DS_Store
+
+# lockfiles
+package-lock.json

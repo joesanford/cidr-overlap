@@ -1,0 +1,39 @@
+{
+  "name": "cidr-overlap",
+  "version": "1.0.0",
+  "description": "a simple tool for finding subnet overlaps",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "lint": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joesanford/cidr-overlap.git"
+  },
+  "keywords": [
+    "cidr",
+    "ip",
+    "address",
+    "addresses",
+    "subnet",
+    "networking"
+  ],
+  "author": "Joe Sanford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joesanford/cidr-overlap/issues"
+  },
+  "homepage": "https://github.com/joesanford/cidr-overlap#readme",
+  "dependencies": {
+    "ip-cidr": "^2.0.0",
+    "netaddr": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
