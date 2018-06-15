@@ -1,4 +1,5 @@
 # cidr-overlap
+[![CircleCI](https://circleci.com/gh/joesanford/cidr-overlap/tree/master.svg?style=svg)](https://circleci.com/gh/joesanford/cidr-overlap/tree/master)
 > Get an array of overlaps that exist from a given array of subnets
 
 ## Installation
