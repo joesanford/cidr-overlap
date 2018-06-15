@@ -1,5 +1,6 @@
 # cidr-overlap
-[![CircleCI](https://circleci.com/gh/joesanford/cidr-overlap/tree/master.svg?style=svg)](https://circleci.com/gh/joesanford/cidr-overlap/tree/master)
+![CircleCI](https://img.shields.io/circleci/project/github/joesanford/cidr-overlap.svg?style=flat-square "Circle CI Status")
+![npm](https://img.shields.io/npm/v/cidr-overlap.svg?style=flat-square "npm version")
 > Get an array of overlaps that exist for a given array of CIDRs for subnets
 
 ## Installation
